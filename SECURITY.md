@@ -8,7 +8,7 @@ If you believe you have discovered a security vulnerability in this project, ple
 
 ### Reporting Process
 
-1. **Private Disclosure**: Send an email to [kavin.apm2003@gmail.com](mailto:kavin.apm2003@gmail.com) with a detailed description of the vulnerability. Please avoid disclosing the details publicly until a fix is in place.
+1. **Private Disclosure**: Send an email to [kavin.apm2003@gmail.com](mailto:kavin.apm2003@gmail.com) and [sanjaukrish10134@gmail.com](mailto:sanjukrish10134@gmail.com)with a detailed description of the vulnerability. Please avoid disclosing the details publicly until a fix is in place.
 
 2. **Verification**: Our security team will review your report and may request additional information or clarification.
 
