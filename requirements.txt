@@ -1,0 +1,7 @@
+twilio
+mysql-connector-python
+secure-smtplib
+uuid
+json
+medisearch-client
+requests
