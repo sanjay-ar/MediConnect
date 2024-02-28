@@ -20,6 +20,12 @@ Before you start using the system, you need to perform some setup steps:
 
 7. Run the `SQL_Database_PAeS.sql` file in phpMyAdmin to create the necessary database and tables.
 
+## Screenshots and Demo
+
+<div align="center">
+  <img alt="Demo" src="./rest2.gif" />
+</div>
+
 ## 🌟 Features
 
 ### 1. Patient Portal 👩‍⚕️📆
